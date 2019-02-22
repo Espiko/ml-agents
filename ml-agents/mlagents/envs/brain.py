@@ -2,7 +2,7 @@ import logging
 import numpy as np
 import io
 
-from typing import Dict, List
+from typing import Dict
 from PIL import Image
 
 logger = logging.getLogger("mlagents.envs")
